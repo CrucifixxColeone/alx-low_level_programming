@@ -1,9 +1,12 @@
 #include "main.h"
 
+
 /**
-* main - prints putchar
-* Return: always 0
-*/
+ *  * main - Entry point
+ *   *
+ *    * Return: nothing, return
+ */
+
 int main(void)
 {
 	_putchar('_');
