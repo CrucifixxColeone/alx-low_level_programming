@@ -5,7 +5,7 @@
 *@n: parameter
 *Return: absolute value of a number
 */
-int_abs(int n)
+int _abs(int n)
 {
 	if (n < 0)
 	n = -n;
