@@ -2,10 +2,10 @@
 
 /**
 *_isalpha - checks for alphabetical letters
-*@c:a character to be check on depending on condition
-*Return:returns 0 or 1 
+* @c: a character arguement
+* Return: returns 0 or 1 depending on condition
 */
-int_isalpha(int c)
+int _isalpha(int c)
 {
-	return ((c >= 'a' && c <= 'z') || ( c >= 'A' && c <= 'Z'));
+	return ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'));
 }
