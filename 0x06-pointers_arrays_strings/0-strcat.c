@@ -2,9 +2,9 @@
 
 /**
 * _strcat -> this is a funcion strcat
-*@dest:first param
-*@scr:second param
-*Return: a string
+* @dest: first param
+* @src: second param
+* Return: a string
 */
 char *_strcat(char *dest, char *src)
 {
