@@ -1,4 +1,4 @@
-#include <unistd.h>
+#include "main.h"
 
 /**
 *_puts_recursion -> this is a function to print string recursivly
@@ -15,4 +15,3 @@ void _puts_recursion(char *s)
 	s++;
 	_puts_recursion(s);
 }
-
