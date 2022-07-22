@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-*main -> this is a function to print its name
+*main -> this is a function to print its main
 *@argc: argc parameter
 *@argv: an array of a command list
-*Rwturn: 0 for success
+*Return: 0 for success
 */
 int main(int argc, char *argv[])
 {
